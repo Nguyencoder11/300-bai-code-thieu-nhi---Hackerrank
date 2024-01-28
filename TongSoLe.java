@@ -16,6 +16,7 @@ public class TongSoLe {
             }
         }
         System.out.println(oddSum);
+        
         sc.close();
     }
 }
