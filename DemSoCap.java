@@ -21,7 +21,6 @@ public class DemSoCap {
                 }
             }
         }
-
         System.out.println(count);
 
         sc.close();
