@@ -5,7 +5,9 @@ public class TongLapPhuong {
         Scanner sc = new Scanner(System.in);
         long n = sc.nextLong();
         long result = tingTongLapPhuong(n);
+
         System.out.println(result);
+        
         sc.close();
     }
 
