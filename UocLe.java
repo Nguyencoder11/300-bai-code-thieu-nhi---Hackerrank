@@ -12,7 +12,6 @@ public class UocLe {
 
             System.out.println(max);
         }
-
         sc.close();
     }
 
