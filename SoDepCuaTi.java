@@ -40,6 +40,7 @@ public class SoDepCuaTi {
                     }
                 }
             }
+
             if (fromListA && fromListB) {
                 return i;
             }
