@@ -14,6 +14,7 @@ public class TongUoc {
                 count++;
             }
         }
+        
         System.out.println(count);
 
         sc.close();
