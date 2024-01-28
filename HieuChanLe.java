@@ -10,6 +10,7 @@ public class HieuChanLe {
         }
 
         long oddSum = 0, evenSum = 0;
+        // Cac phan tu o vi tri le co chi so chan
         for (int i = 0; i < n; i++) {
             if (i % 2 == 0) {
                 // Cong cac phan tu o vi tri le
@@ -20,6 +21,7 @@ public class HieuChanLe {
             }
         }
         System.out.println(evenSum - oddSum);
+        
         sc.close();
     }
 }
